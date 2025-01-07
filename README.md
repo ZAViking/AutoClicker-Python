@@ -1,1 +1,2 @@
-# PythonProjects
+# Auto Clicker
+- Made in Python
